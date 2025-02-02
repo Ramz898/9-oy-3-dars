@@ -1,0 +1,46 @@
+h1{
+    margin-left: 600px;
+}
+.cards{
+
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+}
+.card1{
+    background-color: #f2f2f2;
+    width: 300px;
+}
+.img1{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.card2{
+    background-color: #f2f2f2;
+    width: 300px;
+}
+.card3{
+    background-color: #f2f2f2;
+    width: 300px;
+}
+.card4{
+    background-color: #f2f2f2;
+    width: 300px;
+}
+.cards2{
+    margin-top:50px;
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    background-color: rgb(0, 255, 0);
+    width: 70px;
+    height: 30px;
+    border-radius: 25px;
+}
+h3{
+    margin-left: 20px;
+}
+p{
+    margin-left: 20px;
+}
